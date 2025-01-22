@@ -1,0 +1,25 @@
+TESTED:
+- Serial ports/numbers: the same! so no worries here.
+- test_color_sensor.py
+- motors run and direction is fine
+- encoders
+- open_loop.py
+
+LIST OF TESTS:
+
+If that's great and all, Then
+- main --> if OL control is great, you won't have to deal with imu, otherwise youll have to uncomment
+
+Also test
+- Power bank
+
+Need to recode test button
+
+Else: 
+ BNO testfile to get data....
+
+IMU wiring
+- GND: yellow
+- VIN: purple
+- SDA: green
+- SCL: white
